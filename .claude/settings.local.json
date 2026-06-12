@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 /Users/ssm/.claude/skills/ui-ux-pro-max/scripts/search.py \"developer portfolio dark terminal command center cinematic\" --design-system -p \"Sakitha Manamperi Portfolio\" -f markdown)",
+      "Bash(npm --version)",
+      "Bash(npm install *)",
+      "Bash(mkdir -p \"/Users/ssm/Portfolio Website/public\" \"/Users/ssm/Portfolio Website/app\" \"/Users/ssm/Portfolio Website/components/system\" \"/Users/ssm/Portfolio Website/components/sections\" \"/Users/ssm/Portfolio Website/components/ui\" \"/Users/ssm/Portfolio Website/lib\" \"/Users/ssm/Portfolio Website/hooks\" && cp \"/Users/ssm/Downloads/Sakitha Manamperi Final.pdf\" \"/Users/ssm/Portfolio Website/public/resume.pdf\" && echo done)",
+      "Bash(npx next *)"
+    ]
+  }
+}
