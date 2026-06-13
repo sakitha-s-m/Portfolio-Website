@@ -24,8 +24,11 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://sakitha-manamperi.vercel.app"),
-  title: "Sakitha Manamperi — Software Engineering Student",
+  metadataBase: new URL("https://sakithamanamperi.com"),
+  title: {
+    default: "Sakitha Manamperi",
+    template: "%s · Sakitha Manamperi",
+  },
   description:
     "Software Engineering student at RMIT Melbourne building modern web applications, automation tools, cloud solutions and intelligent digital experiences.",
   keywords: [
