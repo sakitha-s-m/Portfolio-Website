@@ -5,7 +5,7 @@ export const PROFILE = {
   email: "sakithama20@gmail.com",
   phone: "044 999 0065",
   github: "https://github.com/sakitha-s-m",
-  linkedin: "https://www.linkedin.com/in/ssm2004",
+  linkedin: "https://www.linkedin.com/in/sakitha-manamperi/",
   resume: "/resume.pdf",
   degree: "Bachelor of Software Engineering · RMIT",
   graduation: "Class of 2027",

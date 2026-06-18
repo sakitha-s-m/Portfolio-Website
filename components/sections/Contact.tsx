@@ -185,7 +185,7 @@ export default function Contact() {
                   <Github className="size-3.5" aria-hidden="true" /> sakitha-s-m
                 </a>
                 <a href={PROFILE.linkedin} target="_blank" rel="noopener noreferrer" className="flex cursor-pointer items-center gap-2 transition-colors duration-200 hover:text-accent">
-                  <Linkedin className="size-3.5" aria-hidden="true" /> ssm2004
+                  <Linkedin className="size-3.5" aria-hidden="true" /> sakitha-manamperi
                 </a>
               </div>
             </div>

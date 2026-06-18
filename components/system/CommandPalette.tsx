@@ -85,7 +85,7 @@ export default function CommandPalette() {
 
   const links: Item[] = [
     { label: "github", hint: "sakitha-s-m", icon: <Github className="size-4" />, action: () => window.open(PROFILE.github, "_blank") },
-    { label: "linkedin", hint: "ssm2004", icon: <Linkedin className="size-4" />, action: () => window.open(PROFILE.linkedin, "_blank") },
+    { label: "linkedin", hint: "sakitha-manamperi", icon: <Linkedin className="size-4" />, action: () => window.open(PROFILE.linkedin, "_blank") },
     { label: "send email", hint: PROFILE.email, icon: <Mail className="size-4" />, action: () => window.open(`mailto:${PROFILE.email}`) },
   ];
 
